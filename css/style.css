@@ -1467,7 +1467,7 @@ color: #FFFFFF;
     .nav_menu{
         display: none;
     }
-    body{
+    html,body{
     width: 100%;
     }
 }
@@ -1490,7 +1490,7 @@ color: #FFFFFF;
     }
 }
 @media (max-width: 1700px){
-    body{
+    html,body{
         width: 100%;
         height: 6250px;
     }
@@ -1604,7 +1604,7 @@ color: #FFFFFF;
     }
 }
 @media (max-width: 1500px){
-    body{
+    html,body{
         width: 100%;
         height: 6250px;
     }
@@ -1748,7 +1748,7 @@ color: #FFFFFF;
     
 }
 @media (max-width: 1250px){
-    body{
+    html,body{
         width: 100%;
         height: 5500px;
     }
@@ -2125,7 +2125,7 @@ color: #FFFFFF;
     }
 }
 @media (max-width: 812px){
-    body{
+    html,body{
         width: 100%;
         height: 5100px;
     }
@@ -2922,7 +2922,7 @@ color: #FFFFFF;
     }
 }
 @media (max-width: 470px){
-    body{
+    html,body{
         width: 100%;
         height: 4500px;
     }
